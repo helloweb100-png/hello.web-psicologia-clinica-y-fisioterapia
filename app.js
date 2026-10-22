@@ -11,7 +11,6 @@
     /* ───── 0. CONFIGURACIÓN (edita aquí los números de WhatsApp) ───── */
     const CONFIG = {
         waAssistant: '523173897269',   // Asistente: agenda de citas
-        waDirect: '523171131703',      // Contacto directo con la psicóloga
         loaderMinMs: 2300,             // duración mínima del loader
     };
 
